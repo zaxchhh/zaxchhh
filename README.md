@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zaxius 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Data+Solutions+Builder;IT+Consulting+Associate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Data+Solutions+Builder;IT+Consulting+Associate" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,6 @@ I'm currently building **Anemo Check**, an AI-powered non-invasive anemia screen
   <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logoColor=white&logo=tensorflow&color=FF6F00" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" />
   <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=FFCA28" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=000000" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" />
 </p>
 
@@ -47,7 +46,7 @@ I'm currently building **Anemo Check**, an AI-powered non-invasive anemia screen
 
 ### 🟪 Training & Programs
 
-`DICT Technical Training` &nbsp;•&nbsp; `Data Science Program, Japan`
+`DICT Technical Training` &nbsp;•&nbsp; `OmniCampus - Data Science Program, Japan`
 
 ---
 
