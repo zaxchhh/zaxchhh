@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Zaxius 👋</h1>
+<h1 align="center">Hi, I'm Zaxius "Zach" 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Data+Solutions+Builder;IT+Consulting+Associate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Data+Solutions+Builder;alt="Typing SVG" />
 </p>
 
 ---
 
-### 🟪 About me
-
-I'm an **IT Consulting Associate** and full-stack developer turning ideas into **practical, scalable digital products**.
+### 🟪 ABOUT ME
 
 I work across **web development, applied machine learning, and data-driven consulting**, always prioritizing clean architecture and real-world usability.
 
 I'm currently building **Anemo Check**, an AI-powered non-invasive anemia screening PWA for the Philippine health sector, combining **Gemini/Gemma AI** with an **offline-first architecture**.
 
+I'm an **IT Consulting Associate** and full-stack developer turning ideas into **practical, scalable digital products**.
+
 ---
 
-### 🟪 Tech Stack
+### 🟪 TECHNOLOGY STACK
 
 <p align="left">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" />
@@ -32,7 +32,7 @@ I'm currently building **Anemo Check**, an AI-powered non-invasive anemia screen
 ### 🟪 Languages & Tools I Have Placed My Hands On
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,python,tensorflow,nodejs,firebase,nextjs,tailwind,html,css,git,github,figma,vscode,sqlite,vite" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,tensorflow,nodejs,firebase,tailwind,html,css,git,github,figma,vscode,sqlite,vite" />
 </p>
 
 ---
