@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Zaxius "Zach" E. Berina👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/svg?lines=Hello+World" />
+  <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Machine+Learning+%26+AI;UI%2FUX+Designer"
+  alt="Typing SVG"
+/>
 </p>
 
 ---
