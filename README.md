@@ -7,11 +7,19 @@
 
 ### 🟪 ABOUT ME
 
-I work across **web development, applied machine learning, and data-driven consulting**, always prioritizing clean architecture and real-world usability.
+Zaxius Berina — Full-Stack Web Developer | UI / UX Designer | Machine Learning & AI
+ 
+I turn complex technical problems into working products — this is what draws me to the space where full-stack development, applied machine learning, and business strategy meet.
+ 
+As an Full Stack Web Developer, I spend my time on creating different applications and hands-on AI development. On one side, I've designed predictive models — like a Random Forest-based customer churn system — and translated the technical output into strategy decks executives can actually act on, complete with financial impact projections. 
+On the other, I build end-to-end applications: my current flagship project, Anemo, is a non-invasive AI anemia screening PWA built for the Philippine health sector, combining Gemini and Gemma models with an offline-first architecture designed for real-world deployment in underserved areas like Panay Island.
+ 
+I also continue to invest in structured learning beyond my day-to-day work. I've completed technical training through DICT (Department of Information and Communications Technology), and I've taken part in a Data Science program - "Omnicampus" in Japan — experiences that have sharpened both my technical foundation and my exposure to how data science is practiced in different environments.
 
-I'm currently building **Anemo Check**, an AI-powered non-invasive anemia screening PWA for the Philippine health sector, combining **Gemini/Gemma AI** with an **offline-first architecture**.
-
-I'm an **IT Consulting Associate** and full-stack developer turning ideas into **practical, scalable digital products**.
+I'm looking for roles and collaborations where I can keep building at this intersection — AI-powered products with real-world use cases, built with craft.
+ 
+📧 berinazaxiusestoril@gmail.com
+ 🔗 github.com/zaxchhh
 
 ---
 
