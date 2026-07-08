@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zaxius "Zach" 👋</h1>
+<h1 align="center">Hi, I'm Zaxius "Zach" E. Berina👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Data+Solutions+Builder;" alt="Typing SVG" />
 </p>
@@ -86,11 +86,6 @@ I'm an **IT Consulting Associate** and full-stack developer turning ideas into *
 ---
 
 ### 🟪 GitHub Analytics
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaxchhh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxchhh&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxchhh&theme=dark&hide_border=true" />
