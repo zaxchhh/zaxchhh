@@ -96,14 +96,6 @@ I'm looking for roles and collaborations where I can keep building at this inter
 
 ---
 
-### 🟪 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxchhh&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 🟪 Connect with me
 
 <p align="left">
