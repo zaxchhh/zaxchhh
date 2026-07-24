@@ -44,7 +44,7 @@ I'm looking for roles and collaborations where I can keep building at this inter
 ### 🟪 Languages & Tools I Have Placed My Hands On
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,tensorflow,nodejs,firebase,tailwind,html,css,git,github,figma,vscode,sqlite,vite" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,tensorflow,nodejs,firebase,tailwind,html,css,git,github,figma,vscode,sqlite,vite" />
 </p>
 
 ---
